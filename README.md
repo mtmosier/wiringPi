@@ -1,7 +1,7 @@
 wiringPi
 ========
 
-A fork of the excellent wiringPi library by Gordon (http://wiringpi.com/)
+A fork of the excellent wiringPi library by Gordon Henderson (http://wiringpi.com/)
 
 
 Changes
